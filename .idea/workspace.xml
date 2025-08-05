@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="76d96fe7-db04-4830-820a-f0d4827f561c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/sauceDemo/pages/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/sauceDemo/test/E2E_Tests/C_1_SuccessShoppingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/sauceDemo/test/TestBase.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="30sSCU5BpjkG6H2XzkLCfMGDns3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Suleyman/IdeaProjects/B19_SauceDemoTestProject_SS/src/test/resources",
+    "settings.editor.selected.configurable": "editor.preferences.import"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Suleyman\IdeaProjects\B19_SauceDemoTestProject_SS\src\test\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.sauceDemo.utilities" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="C_1_SuccessShoppingTest.successShopping_TC_0125" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="B19_SauceDemoTestProject_SS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sauceDemo.test.E2E_Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sauceDemo.test.E2E_Tests" />
+      <option name="MAIN_CLASS_NAME" value="com.sauceDemo.test.E2E_Tests.C_1_SuccessShoppingTest" />
+      <option name="METHOD_NAME" value="successShopping_TC_0125" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C_1_SuccessShoppingTest.successShopping_TC_0125" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76d96fe7-db04-4830-820a-f0d4827f561c" name="Changes" comment="" />
+      <created>1754414661409</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1754414661409</updated>
+    </task>
+    <servers />
+  </component>
+</project>
