@@ -5,9 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76d96fe7-db04-4830-820a-f0d4827f561c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/sauceDemo/pages/BasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/sauceDemo/test/E2E_Tests/C_1_SuccessShoppingTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/sauceDemo/test/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/sauceDemo/pages/CheckoutCompletePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/sauceDemo/pages/CheckoutOverviewPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/sauceDemo/pages/CheckoutYourInformationPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/sauceDemo/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/sauceDemo/pages/ProductsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/sauceDemo/pages/YourCartPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/sauceDemo/pages/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/sauceDemo/pages/BasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/sauceDemo/test/E2E_Tests/C_1_SuccessShoppingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/sauceDemo/test/E2E_Tests/C_1_SuccessShoppingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/sauceDemo/test/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/sauceDemo/test/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/sauceDemo/pages/BasePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/sauceDemo/pages/BasePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/sauceDemo/test/E2E_Tests/C_1_SuccessShoppingTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/sauceDemo/test/E2E_Tests/C_1_SuccessShoppingTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/sauceDemo/test/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/sauceDemo/test/TestBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/sauceDemo/utilities/BrowserUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/sauceDemo/utilities/BrowserUtils.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,18 +40,25 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "sylmn"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/sylmn/B19_SauceDemoTestProject_SS.git",
+    "accountId": "f1b299cc-92f4-44cb-991f-9e0006ccf849"
+  }
+}]]></component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="workspaceImportEnabled" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
   <component name="ProjectId" id="30sSCU5BpjkG6H2XzkLCfMGDns3" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
@@ -46,15 +66,25 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Suleyman/IdeaProjects/B19_SauceDemoTestProject_SS/src/test/resources",
+    "RunOnceActivity.git.unshallow": "true",
+    "TestNG.C_1_SuccessShoppingTest.successShopping_TC_0125.executor": "Run",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/syule/IdeaProjects/B19_SauceDemoTestProject_SS/src/test/java/com/sauceDemo",
     "settings.editor.selected.configurable": "editor.preferences.import"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\syule\IdeaProjects\B19_SauceDemoTestProject_SS\src\test\java\com\sauceDemo" />
       <recent name="C:\Users\Suleyman\IdeaProjects\B19_SauceDemoTestProject_SS\src\test\resources" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\syule\IdeaProjects\B19_SauceDemoTestProject_SS\src\test\resources" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.sauceDemo.test.E2E_Tests" />
       <recent name="com.sauceDemo.utilities" />
     </key>
   </component>
@@ -82,6 +112,13 @@
         <item itemvalue="TestNG.C_1_SuccessShoppingTest.successShopping_TC_0125" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.26199.169" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">

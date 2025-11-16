@@ -26,7 +26,7 @@ public class TestBase {
     protected Actions actions;
     protected static ExtentReports report;
     protected ExtentHtmlReporter htmlReporter;
-    protected ExtentTest extentLoger;
+    protected ExtentTest extentLogger;
 
     @BeforeTest
     public void setUpTest() {
@@ -66,12 +66,12 @@ public class TestBase {
 
         if (result.getStatus() == ITestResult.FAILURE) {
 
-            extentLoger.fail(result.getName());
+            extentLogger.fail(result.getName());
 
 
             String screenShotPath = BrowserUtils.getScreenshot(result.getName());
-            extentLoger.addScreenCaptureFromPath(screenShotPath);
-            extentLoger.fail(result.getThrowable());
+            extentLogger.addScreenCaptureFromPath(screenShotPath);
+            extentLogger.fail(result.getThrowable());
 
         }
         //Driver.closeDriver();
